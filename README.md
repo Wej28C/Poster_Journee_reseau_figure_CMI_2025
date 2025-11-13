@@ -1,56 +1,45 @@
-# Poster_Journee_reseau_figure_CMI_2025
+# Poster_Journée_réseau_figure_CMI_2025
+## Références principales
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% REFERENCES BIBTEX — POSTER FEDERATED LEARNING / EDGE AI TRUST
-% Auteur : [Ton nom]
-% Date : Novembre 2025
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+- **Projet ROMEO – Calcul Haute Performance et Simulation**  
+  [Plateforme ROMEO – Université de Reims](https://romeo.univ-reims.fr/chps/)  
+  Centre de calcul intensif académique pour la simulation numérique et le HPC.
 
-@misc{urca_chps_2025,
-  author       = {{Université de Reims Champagne-Ardenne}},
-  title        = {Master CHPS – Calcul Haute Performance et Simulation},
-  year         = {2025},
-  howpublished = {\url{https://romeo.univ-reims.fr/chps/}},
-  note         = {Consulté en novembre 2025}
-}
+- **LICIIS URCA – Laboratoire Informatique et Ingénierie des Systèmes**  
+  [Publications et actualités LICIIS sur LinkedIn](https://www.linkedin.com/company/liciis-urca/posts/?feedView=all)  
+  Actualités, projets de recherche et innovations en informatique.
 
-@misc{liciis_urca_2025,
-  author       = {{Laboratoire LICIIS – URCA}},
-  title        = {Laboratoire d'Informatique en Calcul Intensif et Image pour la Simulation},
-  year         = {2025},
-  howpublished = {\url{https://www.linkedin.com/company/liciis-urca/posts/?feedView=all}},
-  note         = {Page LinkedIn officielle, consulté en novembre 2025}
-}
+- **Edge AI Trust – Consortium Européen pour l’IA en périphérie (Edge)**  
+  [Edge AI Trust Project](https://www.edgeai-trust.eu/)  
+  Documentation et projets collaboratifs sur l’IA embarquée, fédération et sécurité.
 
-@misc{edgeai_trust_2025,
-  author       = {{EdgeAI-Trust Consortium}},
-  title        = {EdgeAI-Trust: Decentralized Edge Intelligence – Advancing Trust, Safety, and Sustainability in Europe},
-  year         = {2025},
-  howpublished = {\url{https://www.edgeai-trust.eu/}},
-  note         = {Projet européen Horizon/Chips JU, consulté en novembre 2025}
-}
+## Ressources par sujet
 
-@manual{ultralytics_yolo_2025,
-  author       = {Ultralytics},
-  title        = {Ultralytics YOLO Documentation},
-  year         = {2025},
-  howpublished = {\url{https://docs.ultralytics.com/}},
-  note         = {Documentation officielle YOLOv8, consulté en novembre 2025}
-}
+### YOLO et Ultralytics
 
-@manual{flower_framework_2025,
-  author       = {Flower Labs},
-  title        = {Flower Framework – A Friendly Federated AI Framework},
-  year         = {2025},
-  howpublished = {\url{https://flower.ai/}},
-  note         = {Framework open-source pour l'apprentissage fédéré, consulté en novembre 2025}
-}
+- [Documentation officielle YOLO par Ultralytics](https://docs.ultralytics.com/)  
+  Guide complet pour l’utilisation, le développement et l’optimisation de YOLO, modèle de détection d’objets en temps réel.
 
-@manual{nvidia_jetson_tx2_2025,
-  author       = {NVIDIA Corporation},
-  title        = {Jetson TX2 – High-Performance Embedded AI Module for the Edge},
-  year         = {2025},
-  howpublished = {\url{https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-tx2/}},
-  note         = {Documentation officielle NVIDIA, consulté en novembre 2025}
-}
+- [Site Ultralytics](https://ultralytics.com/)  
+  Présentation des modèles YOLO et ressources pour le déploiement IA sur edge et cloud.
+
+### Apprentissage Fédéré avec Flower
+
+- [Flower Framework Documentation](https://flower.ai/docs/)  
+  Documentation officielle sur la mise en place et l’architecture des systèmes d’apprentissage fédéré.
+
+- [Repository GitHub de Flower](https://github.com/adap/flower)  
+  Exemples pratiques et code source du framework open source d’apprentissage fédéré.
+
+### Edge Computing et NVIDIA Jetson TX2
+
+- [NVIDIA Jetson TX2 pour des performances avancées](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-tx2/)  
+  Fiche technique et cas d’usage du module Jetson TX2 pour l’accélération IA en périphérie.
+
+- [JetPack SDK – NVIDIA](https://developer.nvidia.com/embedded/jetpack)  
+  Ensemble d’outils et librairies pour le développement IA embarqué sur Jetson.
+
+## Résumé du projet
+
+Ce projet combine la puissance du HPC (ROMEO), la recherche en informatique distribuée (LICIIS), et les technologies de pointe pour l’Edge AI sécurisée (Edge AI Trust). Les outils clés sont Ultralytics YOLO pour la vision par ordinateur, le framework Flower pour l’apprentissage fédéré distribué, et NVIDIA Jetson TX2 pour le déploiement en environnement embarqué.
 
