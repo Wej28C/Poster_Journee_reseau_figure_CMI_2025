@@ -1,7 +1,7 @@
 # Poster_Journée_réseau_figure_CMI_2025
 ## Références principales
 
-- **Projet ROMEO – Calcul Haute Performance et Simulation**  
+- **Master Calcul Haute Performance et Simulation** **Université de Reims Champagne Ardenne**  
   [Plateforme ROMEO – Université de Reims](https://romeo.univ-reims.fr/chps/)  
   Centre de calcul intensif académique pour la simulation numérique et le HPC.
 
